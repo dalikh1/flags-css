@@ -1,0 +1,16 @@
+body {
+    margin: 0px;
+    .red{
+        background: red;
+        height: 300px;
+        margin-bottom: 300px;
+    }
+    .blue{
+        background: blue;
+        height: 300px;
+    }
+    .green{
+        background: green;
+        height: 300px;
+    }
+}
